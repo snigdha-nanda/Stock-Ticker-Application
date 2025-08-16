@@ -1,0 +1,22 @@
+{
+  "name": "stock-ticker-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export"
+  },
+  "dependencies": {
+    "next": "13.5.6",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "20.8.0",
+    "@types/react": "18.2.25",
+    "@types/react-dom": "18.2.11",
+    "typescript": "5.2.2"
+  }
+}
